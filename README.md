@@ -41,10 +41,10 @@ Tourism in Malta is heavily influenced by the weather conditions. Traveller inte
 
 **How to Run:**
 
-1. git clone https://github.com/aidan-gauci/Weather-Tourist-Project
-2. cd Weather-Tourist-Project
-3. pip install -r requirements.txt
-4. jupyter notebook
+1. ```git clone https://github.com/aidan-gauci/Weather-Tourist-Project```
+2. ```cd Weather-Tourist-Project```
+3. ```pip install -r requirements.txt```
+4. ```jupyter notebook```
 
 **Limitations:**
 
